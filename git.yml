@@ -129,3 +129,51 @@ git add
 git commit 
 git log 
 git push
+vi 
+i  = insert mode
+esc :  command mode
+:wq!   = save and quit. 
+git branching and pull request.
+git branching:
+pull request 
+.......................
+when a repository , it comes with a default called : main /master 
+git branch  commands:
+git branch (list your branches and also indicate the current you are working on)
+git branch [branch name] 
+e.g
+git branch dev [this creates a branch call dev]
+........................
+price  
+master = perfect branch = codes in the master are ready for deployment to production
+you never push your codes to codes to the master branch:
+playground/testing = optional
+dev   = developing and testing =  dev branch 
+staging  = pushed to the staging branch  = feedback = asking . 
+master =  production
+production
+playground = is where we test our proof of concept. 
+codes are only merged via a pull request. 
+elvis 
+melani
+vicky 
+
+How do we create a branch :
+git branch [name]
+e.g
+git branch dev 
+git branch 
+switch branch:
+git branch checkout [branch name you want to switch to]
+e.g:
+git branch checkout dev (this is going to switch us from master to dev)
+
+pull request : PR :
+step1: clone the code to local environment.
+ git clone 
+step2: perform chnaged and run [git add .]
+step: git create a branch [ git branch dev]
+step:  git checkout dev ( switch to new branch [dev])
+step:  git commit 
+step:  git push lionite/origin dev
+

@@ -1,0 +1,131 @@
+cd = change directory 
+mkdir   =  mkdir directory
+ls = list [files and directory ]
+cd ~ (~ =tilter) ~
+cd ~ (change directory to home directory)
+~ =home directory.
+touch  =  creates a file 
+ examples with touch commands:
+ touch price
+ touch cars 
+ touch students
+ touch fruits. 
+ vi =  (allows to to open a file)
+
+ difference files and directories : 
+ cd price
+ Note:  we cant cd into a file:
+...................................
+git config = usename and email:
+identifies teams operations and activties on files.
+git config --global user.name "Lion Tech Academy"
+You
+git config --global user.email "dev@tararoutray.com"
+git init
+git status  (check the status files)
+git add 
+git add .  (add all the files in the working area)
+git add price (added just price)
+working area
+git commit -m "message"  
+git log = verify the recent commit
+git remote add [alias] url [git repository]
+IQ:  Describe your git workflow:
+create directory :  mkdir [foldername]
+create the filess {touch command}  e.g (touch price)
+git add .
+git commit 
+git log 
+git push to the remote area. 
+git init = initialize the git local repo
+git branch
+local repo and remote repo:
+
+Today's Program: 
+git clone 
+git push 
+git branch 
+pull request.
+
+devop = dev + operations:
+SDLC before devops
+developers used to deliver software as a whole. 
+Education management software = developers would deliver this application in delivery= lump sum
+devopers = plan = building = codes: write applications = 
+window:/ silos:
+Operations = take the software to the endusers 
+are not in the loop
+oxford university = email respond: 
+Git  = Distributed versions control system: 
+Repository = devlopers, operations, project respository
+push codes to the repository = operations is able to test, operate and provide feedback
+project manager = acts as mediator between  tech(developers and operations) and non tech team
+Project manager = ops , i think we need to add transcript request (features) 
+what happens if the new feature is not working well.  6 months
+That is why Devops Git is solving this problem:
+DevOps is not a job title: 
+DevOps is a practice /methodology on software development life cycle:
+How manay software did you use today
+microsoft =
+zooms = millions of users
+whatsapp = these applications has features
+telegram 
+bank app
+with devops , the whatsap can be be developed in parts: 
+what are the features of the whatsap application : 
+Lion Tech was contracted to build the whatsap app. 
+(groups, chats, calls, media, videos, audio, gifs,)
+Lion Tech is going to create a github account + repositories. 
+Github = dev + ops + qa + project managers 
+group is developed and pushed tp github repo : 
+take the codes and build/package/ 
+u want to took rice and stew :
+fish
+tin tomatoes
+onion
+rice
+someone needs to mixed the igredents together. before rice and stew would be available for
+consumption
+DevOps engineers is a subject matter expert:
+dev       dev/ops engineer         ops
+standup meetings.
+DAILY STANDUP MEETINGS  = 15 minutes
+what did you work on yestewrday 
+what challenges did you encounter 
+what would be working on today.
+project manager /scrum master
+
+Do DevOps engineers write application codes : NO. 
+AUtomation expert = automation and sdlc = devops
+it falls in the versions control system = 
+devops = cicd  = continouse delivery and deployment. 
+Software = 
+we dont develope software a lump:
+develop in parts = tested = feedback = developers get faster feedback
+cicd comes = devops engineer. = backend guy. 
+before workday = images the nighware the hr managers: 
+Nowadays :
+software is all about : 
+speed to the market  = fast 
+security 
+reliability 
+changes = how often are changes made to the applciation 
+what for business is a new feature: 
+git and github is helping us to acieve collaboration:
+IQ:  what is your experience with git. 
+.......................................................
+Local environment  = your house = local environment.
+local = close to your = local community
+remote environment  = github
+
+........................
+Authenticating with your github account. 
+PAT :  personal access token = complicated password generated github. 
+git clone 
+modified the files clones 
+git remote add [alias]
+git status 
+git add
+git commit 
+git log 
+git push
